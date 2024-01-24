@@ -1,0 +1,74 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "slug": "catcher-in-the-rye",
+      "description": "A classic novel about teenage angst and rebellion."
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "slug": "to-kill-a-mockingbird",
+      "description": "A powerful story about racial injustice in the American South."
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "slug": "1984",
+      "description": "A dystopian novel depicting a totalitarian society."
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "slug": "the-great-gatsby",
+      "description": "A portrayal of the American Dream in the Jazz Age."
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "slug": "harry-potter-sorcerers-stone",
+      "description": "The first book in the Harry Potter series."
+    },
+    {
+      "id": 6,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "slug": "the-hobbit",
+      "description": "A fantasy novel about Bilbo Baggins' unexpected adventure."
+    },
+    {
+      "id": 7,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "slug": "pride-and-prejudice",
+      "description": "A classic romance novel exploring societal expectations."
+    },
+    {
+      "id": 8,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "slug": "the-alchemist",
+      "description": "A philosophical novel about a journey of self-discovery."
+    },
+    {
+      "id": 9,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "slug": "the-da-vinci-code",
+      "description": "A mystery thriller involving art, history, and symbolism."
+    },
+    {
+      "id": 10,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "slug": "the-lord-of-the-rings",
+      "description": "An epic fantasy trilogy set in the world of Middle-earth."
+    }
+  ]
+}
