@@ -1,6 +1,6 @@
 import { api } from "./baseurl";
 
-export const GetBookData = async (arg) => {
+export const GetAuthorData = async (arg) => {
     try{
         const {data} = await api.get(arg)
         // console.log(data);

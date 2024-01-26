@@ -5,7 +5,8 @@
       "title": "The Catcher in the Rye",
       "author": "J.D. Salinger",
       "slug": "catcher-in-the-rye",
-      "description": "A classic novel about teenage angst and rebellion."
+      "description": "A classic novel about teenage angst and rebellion.",
+      "image" : "https://unsplash.com/s/photos/aesthetic-book"
     },
     {
       "id": 2,
@@ -69,6 +70,53 @@
       "author": "J.R.R. Tolkien",
       "slug": "the-lord-of-the-rings",
       "description": "An epic fantasy trilogy set in the world of Middle-earth."
+    }
+  ],
+  "author": [
+    {
+      "id": 1,
+      "name": "Lucius"
+    },
+    {
+      "id": 2,
+      "name": "Wiston"
+    },
+    {
+      "id": 3,
+      "name": "Xander"
+    },
+
+    {
+      "id": 4,
+      "name": "Zara"
+    },
+
+    {
+      "id": 5,
+      "name": "Quincy"
+    },
+
+    {
+      "id": 6,
+      "name": "Olivia"
+    },
+
+    {
+      "id": 7,
+      "name": "Victor"
+    },
+    {
+      "id": 8,
+      "name": "Fiona"
+    },
+
+    {
+      "id": 9,
+      "name": "Gideon"
+    },
+    {
+      "id": 10,
+      "name": "Harper"
     }
   ]
 }
